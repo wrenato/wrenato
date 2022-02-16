@@ -2,7 +2,7 @@
 
 - 💡 I'm a developer and automation engineer.
 - 🌱 I'm learning everything and teaching when I can
-- 🔭 Currently working as a developer at [Groupmyid][website]
+- 🔭 Currently working as a developer at [BigSales(PT/BR/ES/AO)][website]
 - 🥅 2021 Objectives: learn and teach as much as you can while leading a happy life.
 - ⚡ Curiosity: I am a big fan of 7th Art and I love to read
 - 💻 Connect with me on [Website][mysite], [LinkedIn][linkedin] and [Instagram][instagram]
@@ -32,7 +32,7 @@
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-[website]: https://groupmyid.com/
+[website]: https://bigsales.pt/
 [instagram]: https://www.instagram.com/wrenato/
 [linkedin]: https://www.linkedin.com/in/washington-renato-menezes-dos-santos-73310839/
 [mysite]: https://wrenato.ziatt.com.br/
