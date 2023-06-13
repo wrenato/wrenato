@@ -3,7 +3,7 @@
 - 💡 I'm a developer and automation engineer.
 - 🌱 I'm learning everything and teaching when I can
 - 🔭 Currently working as a developer at [BigSales(PT/BR/ES/AO)][website]
-- 🥅 2021 Objectives: learn and teach as much as you can while leading a happy life.
+- 🥅 2023 Objectives: learn and teach as much as you can while leading a happy life.
 - ⚡ Curiosity: I am a big fan of 7th Art and I love to read
 - 💻 Connect with me on [Website][mysite], [LinkedIn][linkedin] and [Instagram][instagram]
 
