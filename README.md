@@ -35,4 +35,4 @@
 [website]: https://bigsales.pt/
 [instagram]: https://www.instagram.com/wrenato/
 [linkedin]: https://www.linkedin.com/in/washington-renato-menezes-dos-santos-73310839/
-[mysite]: https://wrenato.ziatt.com.br/
+[mysite]: https://wrenato.com/
